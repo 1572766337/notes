@@ -1,6 +1,6 @@
 # 配置zsh
 ```
-yum install zsh #安装zsh
+yum install zsh -y #安装zsh
 chsh -s /bin/zsh #将zsh设置成默认shell（不设置的话启动zsh只有直接zsh命令即可）
 wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh
 # 下载插件
