@@ -31,3 +31,9 @@ set ai
 set mouse=a
 map <F2> :NERDTreeToggle<CR>
 ```
+
+# 配置trzsz
+```
+curl -fsSL "https://sh.wlnmp.com/wlnmp.sh" | bash
+sudo yum install trzsz
+```
